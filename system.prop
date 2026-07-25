@@ -1,0 +1,8 @@
+# TWRP system properties for HUAWEI MatePad Pro 2021
+ro.product.model=MatePad Pro
+ro.product.brand=HUAWEI
+ro.product.name=MRR-W29
+ro.product.device=mrr_w29
+ro.product.board=
+ro.hardware=qcom
+ro.build.product=mrr_w29
